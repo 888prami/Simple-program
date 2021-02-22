@@ -35,6 +35,6 @@ public class Calculator {
         	System.out.println("Your answer is" +c);
 		}
 		else 
-			System.out.println("Invalid choice");
+			System.out.println("Invalid options");
 	}
 }
